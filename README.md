@@ -1,0 +1,4 @@
+PokerBrain
+==========
+
+PokerBrain codebase
